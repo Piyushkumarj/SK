@@ -49,13 +49,13 @@ footer {
 }
 #catalog {
     padding: 10px;
-    margin: 10px;
+    margin: 20px;
     background-color: white;
     border-radius: 5px;
 }
 .catalog-container {
-    text-align: center;
-    justify-content: center; /* Center the iframe horizontally */
+    justify-content: center;
+    text-align: center; /* Center the iframe horizontally */
 }
 html,
 body {
