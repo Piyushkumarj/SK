@@ -54,7 +54,7 @@ footer {
     border-radius: 5px;
 }
 .catalog-container {
-    display: flex;
+    justify-content: center;
     justify-content: center; /* Center the iframe horizontally */
 }
 html,
