@@ -56,6 +56,8 @@ footer {
 .catalog-container {
     justify-content: center;
     text-align: center; /* Center the iframe horizontally */
+     margin-left: auto;
+  margin-right: auto;
 }
 html,
 body {
